@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The Hungry Developer 2</string>
+    <string name="the_hungry_devoloper">The Hungry Devoloper</string>
+    <string name="starters">Starters</string>
+    <string name="main_courses">Main Courses</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+</resources>
